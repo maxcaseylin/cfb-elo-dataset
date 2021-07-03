@@ -1,6 +1,5 @@
-# cfb-elo-visualizer
-An elo visualization of college football teams from 1980-2019
+# cfb-elo-dataset
 
+a dataset of the elo of FBS D1 teams from 1980-2019
 
-Associated graphs with the data can be found here:
-https://observablehq.com/@maxcaseylin/untitled
+associated visualizations written in altair can be found in visualizer.ipynb
